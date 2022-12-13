@@ -1,4 +1,4 @@
-import { suma, resta, multiplicacion, division } from "./Funcionalidad.js";
+import { suma, resta, multiplicacion, division } from "./Funcionalidad/Funcionalidad.js";
 
 function calculadoraText(){
     let operacion = prompt("1: Sumar, 2: Restar, 3: Dividir, 4: Multiplicar")
